@@ -5,8 +5,6 @@
        _Volunteer in the AfirmAções JampaSUS Extension Project_
 - 🌱 Graduando em Ciência de Dados e Inteligência Artificial pela UFPB  
     _Undergraduate student in Data Science and Artificial Intelligence at UFPB_
-- 😄 Pronomes: Ele/ Dele  
-     _Pronoums: His/ Him_
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kennyow&show_icons=true&theme=monokai"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennyow&layout=compact&langs_count=6&theme=monokai"/>
