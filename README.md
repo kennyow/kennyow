@@ -9,6 +9,9 @@
 ![Stats de Kennyow](https://github-readme-stats.vercel.app/api?username=kennyow&show_icons=true&theme=monokai)
 ![Linguagens de Kennyow](https://github-readme-stats.vercel.app/api/top-langs/?username=kennyow&layout=compact&langs_count=6&theme=monokai)
 
+<img height="180em" 
+     src="https://github-readme-stats-sigma-five.vercel.app/api?username=kennyow&show_icons=true&theme=monokai&cache_seconds=1800"/>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kennyo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
